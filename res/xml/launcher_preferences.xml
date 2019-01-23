@@ -74,4 +74,9 @@
         android:title="@string/dock_search_title"
         android:summary="@string/dock_search_summary"
         android:defaultValue="true" />
+
+    <Preference
+        android:key="pref_trust_apps"
+        android:title="@string/trust_apps_manager_name" />
+
 </androidx.preference.PreferenceScreen>
