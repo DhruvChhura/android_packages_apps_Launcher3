@@ -12,6 +12,7 @@
     <icon drawable="@drawable/themed_icon_messages" package="com.android.messaging" />    
     <icon drawable="@drawable/themed_icon_safety" package="com.google.android.apps.safetyhub" />
     <icon drawable="@drawable/themed_icon_calculator" package="com.google.android.calculator" />
+    <icon drawable="@drawable/themed_icon_calculator" package="com.android.calculator2" />
     <icon drawable="@drawable/themed_icon_family_link" package="com.google.android.apps.kids.familylink" />
     <icon drawable="@drawable/themed_icon_family_link_ct" package="com.google.android.apps.kids.familylinkhelper" />
     <icon drawable="@drawable/themed_icon_google_fi" package="com.google.android.apps.tycho" />
@@ -71,6 +72,7 @@
     <icon drawable="@drawable/themed_icon_camera" package="net.sourceforge.opencamera" />
     <icon drawable="@drawable/themed_icon_camera" package="com.oppo.camera" />
     <icon drawable="@drawable/themed_icon_camera" package="com.oplus.camera" />
+    <icon drawable="@drawable/themed_icon_camera" package="app.grapheneos.camera" />
     <icon drawable="@drawable/themed_icon_photos" package="com.google.android.apps.photosgo" />
     <icon drawable="@drawable/themed_icon_files" package="com.google.android.documentsui" />
     <icon drawable="@drawable/themed_icon_mtmanager" package="bin.mt.plus" />
