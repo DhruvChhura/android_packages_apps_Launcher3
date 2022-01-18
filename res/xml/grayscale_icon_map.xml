@@ -32,6 +32,7 @@
     <icon drawable="@drawable/themed_icon_play_books" package="com.google.android.apps.books" />
     <icon drawable="@drawable/themed_icon_lens" package="com.google.ar.lens" />
     <icon drawable="@drawable/themed_icon_chrome" package="com.android.chrome" />
+    <icon drawable="@drawable/themed_icon_chrome" package="org.lineageos.jelly" />
     <icon drawable="@drawable/themed_icon_g_translate" package="com.google.android.apps.translate" />
     <icon drawable="@drawable/themed_icon_gpay" package="com.google.android.apps.nbu.paisa.user" />
     <icon drawable="@drawable/themed_icon_play_games" package="com.google.android.play.games" />
